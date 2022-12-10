@@ -1,0 +1,17 @@
+@media screen and (min-width: 480px) {
+    body {
+      background-color: rgb(162, 240, 162);
+    }
+  }
+
+.nav-link {
+text-decoration: none;
+color: black;
+  }
+
+  .example {
+    list-style-type: none;
+}
+
+
+
